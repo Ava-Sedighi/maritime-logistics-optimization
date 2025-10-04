@@ -5,7 +5,7 @@ It was developed as a **course project for Operations Research II**, focusing on
 
 ---
 
-## 🧭 Overview
+## Overview
 The model assigns ships to berths and determines their service order to minimize total operational cost, considering:
 - Berth capacity and extra capacity usage  
 - Ship sequencing and precedence constraints  
@@ -14,7 +14,7 @@ The model assigns ships to berths and determines their service order to minimize
 
 ---
 
-## ⚙️ Implementation
+## Implementation
 Two formulations were developed:
 1. **Pyomo-based MILP model** (Python)
 2. **Gurobi direct implementation**
@@ -26,7 +26,7 @@ Two formulations were developed:
 
 ---
 
-## 📊 Sensitivity Analysis
+## Sensitivity Analysis
 The sensitivity analysis investigates the effect of changing **berth capacity** and **service-level thresholds** on:
 - Total operational cost  
 - Average ship waiting time  
@@ -34,7 +34,7 @@ The sensitivity analysis investigates the effect of changing **berth capacity** 
 
 ---
 
-## 🧩 Dependencies
+## Dependencies
 - Python 3.x  
 - Pyomo  
 - Gurobi  
