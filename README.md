@@ -40,10 +40,10 @@ pip install pyomo gurobipy pandas numpy openpyxl
 ```
 ## Repository Structure
 ```
-├── OR_Project_phase_II.ipynb   # Main implementation notebook
-├── data/                       # Input Excel files (ships, berths, parameters)
-├── results/                    # Output and sensitivity analysis results
-└── README.md                   # Project description
+├── MILP and Sensetivity Analysis.ipynb   # Main implementation notebook
+├── data/                                 # Input Excel files (ships, berths, parameters)
+├── report/                              # Output and sensitivity analysis results
+└── README.md                             # Project description
 ```
 
 ## Author
