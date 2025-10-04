@@ -39,13 +39,14 @@ Install dependencies with:
 pip install pyomo gurobipy pandas numpy openpyxl
 ```
 ## Repository Structure
+```
 ├── OR_Project_phase_II.ipynb   # Main implementation notebook
 ├── data/                       # Input Excel files (ships, berths, parameters)
 ├── results/                    # Output and sensitivity analysis results
 └── README.md                   # Project description
+```
 
 ## Author
-
 Ava Sedighi
 Sharif University of Technology
 Course: Operations Research II (Spring 2025)
